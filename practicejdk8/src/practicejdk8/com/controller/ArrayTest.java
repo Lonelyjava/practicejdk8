@@ -1,5 +1,11 @@
 package practicejdk8.com.controller;
-
+/*Author By :kundan kumar
+* Created date : 16/01/2023
+* Language : Java
+* Purpose For : Core Java Expert
+*
+*
+* */
 import java.util.Arrays;
 
 public class ArrayTest {
