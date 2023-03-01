@@ -20,6 +20,6 @@ public class StringReverseSearchWord {
         }
 
     public static void main(String[] args) {
-        reverseeachword("kundan");
+        reverseeachword("kundan is a boy");
     }
 }

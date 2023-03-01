@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/practicejdk8.iml" filepath="$PROJECT_DIR$/practicejdk8.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/practicejdk8.iml" filepath="$PROJECT_DIR$/.idea/practicejdk8.iml" />
     </modules>
   </component>

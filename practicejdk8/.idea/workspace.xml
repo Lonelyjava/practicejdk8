@@ -1,32 +1,495 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c194955-aa6b-4c5d-b8f4-e94044430a00" name="Changes" comment="" />
+    <list default="true" id="26061b9b-10cd-49a2-b960-6e1e0b4b8f8a" name="Changes" comment="comit for  string">
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/abstracdesign/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/abstracdesign/AbstractFactoryProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/abstracdesign/Engineer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/abstracdesign/FactoryPatternMainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/abstracdesign/Profession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/abstracdesign/ProfessionAbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/abstracdesign/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/abstracdesign/TraineeEngineer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/abstracdesign/TraineeProfessionAbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/abstracdesign/TraineeTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/array/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/array/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/array/Anagram1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/array/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/array/GetMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/array/InterviewArraysQuestions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/array/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/array/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/array/Question253.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/array/SubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/array/Test11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/array/TestA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/designpattern/factoryPattern/Doctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/designpattern/factoryPattern/Engineer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/designpattern/factoryPattern/FactoryPattrenMainclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/designpattern/factoryPattern/Profession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/designpattern/factoryPattern/ProfessionFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/designpattern/factoryPattern/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/lambdaexpression/FunctionInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/lambdaexpression/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/lambdaexpression/MathInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/prototype/designpattern/Doctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/prototype/designpattern/Engineer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/prototype/designpattern/Profession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/prototype/designpattern/ProfessionCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/prototype/designpattern/ProtoTypePatternMainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/prototype/designpattern/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/singleton/desingpattern/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/singleton/desingpattern/SingletonClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/stream/Arithmetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/stream/CollectionStack1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/stream/Emp1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/stream/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/stream/FlatMapColl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/stream/Java8ForEachExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/stream/MethodReference2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/stream/MethodRefrence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/stream/MyConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/stream/ParallelStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/stream/QueqeCollections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/stream/SecondSalaryEMp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/stream/StackCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/stream/Stream1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/stream/StreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/stream/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/stream/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/string/Emp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/string/FIveTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/string/FactRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/string/RemovePerenthesisString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/string/ReverseIntegerValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/string/StringA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practicejdk8/com/string/StringWordReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/ArrayTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/BookController$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/BookController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/BookService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/DaemonThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/DemoService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/DemoString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/FabonacciSeriesJava.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/Multithread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/MyThread1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/MyThread3$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/MyThread3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/MyThreadDeadlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/ParallelStreamTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/PatternWhileLoop1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/PatternWhileLoop10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/PatternWhileLoop11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/PatternWhileLoop12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/PatternWhileLoop13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/PatternWhileLoop14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/PatternWhileLoop15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/PatternWhileLoop16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/PatternWhileLoop17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/PatternWhileLoop18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/PatternWhileLoop19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/PatternWhileLoop2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/PatternWhileLoop20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/PatternWhileLoop21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/PatternWhileLoop3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/PatternWhileLoop4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/PatternWhileLoop5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/PatternWhileLoop6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/PatternWhileLoop7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/PatternWhileLoop8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/PatternWhileLoop9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/RecursionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/Sender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/StreamTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/StremDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/SyncDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/TestService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/ThreadedSend.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23,_7_59_pm_[Changes]1/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_01_23__7_59_pm__Changes_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/array/Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/array/Array.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/array/ArrayFrequency.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/array/ArrayFrequency.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/array/ArrayShift.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/array/ArrayShift.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/array/ArraySort.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/array/ArraySort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/array/ArrayTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/array/ArrayTriangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/array/ArrayTriangleWise.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/array/ArrayTriangleWise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/array/DiagonalwiseArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/array/DiagonalwiseArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/array/LcmArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/array/LcmArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/array/MAtrixMergeArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/array/MAtrixMergeArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/array/MatrixArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/array/MatrixArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/array/MatrixArrayMax.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/array/MatrixArrayMax.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/array/MatrixTransposeArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/array/MatrixTransposeArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/array/MaxAndMinArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/array/MaxAndMinArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/array/MaxMinArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/array/MaxMinArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/array/My.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/array/My.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/array/NonRepeatingArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/array/NonRepeatingArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/array/UnionArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/array/UnionArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/controller/ArrayDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/controller/ArrayDemo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/controller/ArrayTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/controller/ArrayTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/controller/BookController$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/controller/BookController$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/controller/BookController.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/controller/BookController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/controller/DemoString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/controller/DemoString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/controller/ParallelStreamTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/controller/ParallelStreamTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/controller/RecursionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/controller/RecursionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/controller/StreamTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/controller/StreamTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/controller/StremDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/controller/StremDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/controller/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/controller/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/FabonacciSeriesJava.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/FabonacciSeriesJava.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/PatternWhileLoop1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/PatternWhileLoop1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/PatternWhileLoop10.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/PatternWhileLoop10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/PatternWhileLoop11.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/PatternWhileLoop11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/PatternWhileLoop12.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/PatternWhileLoop12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/PatternWhileLoop13.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/PatternWhileLoop13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/PatternWhileLoop14.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/PatternWhileLoop14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/PatternWhileLoop15.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/PatternWhileLoop15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/PatternWhileLoop16.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/PatternWhileLoop16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/PatternWhileLoop17.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/PatternWhileLoop17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/PatternWhileLoop18.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/PatternWhileLoop18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/PatternWhileLoop19.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/PatternWhileLoop19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/PatternWhileLoop2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/PatternWhileLoop2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/PatternWhileLoop20.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/PatternWhileLoop20.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/PatternWhileLoop21.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/PatternWhileLoop21.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/PatternWhileLoop3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/PatternWhileLoop3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/PatternWhileLoop4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/PatternWhileLoop4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/PatternWhileLoop5.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/PatternWhileLoop5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/PatternWhileLoop6.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/PatternWhileLoop6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/PatternWhileLoop7.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/PatternWhileLoop7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/PatternWhileLoop8.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/PatternWhileLoop8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/PatternWhileLoop9.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/dataStructure/PatternWhileLoop9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/multithreading/DaemonThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/multithreading/DaemonThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/multithreading/Multithread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/multithreading/Multithread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/multithreading/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/multithreading/MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/multithreading/MyThread1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/multithreading/MyThread1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/multithreading/MyThread3$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/multithreading/MyThread3$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/multithreading/MyThread3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/multithreading/MyThread3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/multithreading/MyThreadDeadlock.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/multithreading/MyThreadDeadlock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/multithreading/Sender.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/multithreading/Sender.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/multithreading/SyncDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/multithreading/SyncDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/multithreading/ThreadedSend.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/multithreading/ThreadedSend.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/service/BookService.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/service/BookService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/service/DemoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/service/DemoService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/service/TestService.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/service/TestService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/stream/StreamTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/stream/StreamTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/string/Array1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/string/Array1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/string/StrignFrequencyCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/string/StrignFrequencyCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringAllTrim.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringAllTrim.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringBinarytoDecimal.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringBinarytoDecimal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringCharCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringCompare.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringCompare.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringExpersion.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringExpersion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringFind.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringFind.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringLeftTrim.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringLeftTrim.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringLength.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringPalindrom.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringPalindrom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringPattern.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringPattern.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringPower.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringPower.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringPrintAllReverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringPrintAllReverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringRemovePerenthesis.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringRemovePerenthesis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringRepeating.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringRepeating.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringReplace.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringReplace.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringReverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringReverse1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringReverse1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringReverseSearchWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringReverseSearchWord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringRightTrim.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringRightTrim.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringSequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringSorted.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringSortedWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringSpaceCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringSpaceCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringSqueze.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringSqueze.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringTraingle1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringTriangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringTriangle3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringTriangle3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringTriangle4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringTriangle4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringVowelCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringVowelCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringWordFrequencey.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringWordFrequencey.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/string/StringWordSpaceCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/string/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/string/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/string/Test12.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/string/Test12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practicejdk8/com/string/TwoStringCheckedSameORNot.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/practicejdk8/com/string/TwoStringCheckedSameORNot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practicejdk8/com/dataStructure/PatternWhileLoop4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practicejdk8/com/dataStructure/PatternWhileLoop4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practicejdk8/com/string/StringRepeating.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practicejdk8/com/string/StringRepeating.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practicejdk8/com/string/StringReverse1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practicejdk8/com/string/StringReverse1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practicejdk8/com/string/StringReverseSearchWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practicejdk8/com/string/StringReverseSearchWord.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/practicejdk8/com/array/Logger.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/practicejdk8/com/singleton/desingpattern/MainClass.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/practicejdk8/com/singleton/desingpattern/SingletonClass.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/practicejdk8/com/string/FIveTable.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/practicejdk8/com/string/FactRecursive.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/practicejdk8/com/string/ReverseIntegerValue.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/practicejdk8/com/string/StringA.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/practicejdk8/com/string/StringReverse1.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/practicejdk8/com/string/StringReverseSearchWord.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/practicejdk8/com/string/StringWordReverse.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2K1vbo2uVgvlnqRy29mxLd9acIs" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.Test2">
+    <configuration name="Emp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practicejdk8.com.string.Emp" />
+      <module name="practicejdk8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practicejdk8.com.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Emp1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practicejdk8.com.stream.Emp1" />
+      <module name="practicejdk8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practicejdk8.com.stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondSalaryEMp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practicejdk8.com.stream.SecondSalaryEMp" />
+      <module name="practicejdk8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practicejdk8.com.stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practicejdk8.com.stream.Test2" />
+      <module name="practicejdk8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practicejdk8.com.stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practicejdk8.com.array.TestA" />
+      <module name="practicejdk8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practicejdk8.com.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.SecondSalaryEMp" />
+        <item itemvalue="Application.Emp" />
+        <item itemvalue="Application.Emp1" />
+        <item itemvalue="Application.TestA" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1c194955-aa6b-4c5d-b8f4-e94044430a00" name="Changes" comment="" />
+      <changelist id="26061b9b-10cd-49a2-b960-6e1e0b4b8f8a" name="Changes" comment="comit for  string" />
       <created>1673154977626</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673154977626</updated>
     </task>
+    <task id="LOCAL-00001" summary="comit for  string">
+      <created>1674311550825</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674311550825</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="comit for  string" />
+    <option name="LAST_COMMIT_MESSAGE" value="comit for  string" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/practicejdk8/com/stream/Stream1.java</url>
+          <line>9</line>
+          <properties class="practicejdk8.com.stream.Stream1" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practicejdk8/com/stream/ParallelStream.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practicejdk8/com/stream/Java8ForEachExample.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practicejdk8/com/stream/Java8ForEachExample.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practicejdk8/com/string/StringRepeating.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practicejdk8/com/string/StringRepeating.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practicejdk8/com/array/InterviewArraysQuestions.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practicejdk8/com/array/Anagram.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practicejdk8/com/string/StringA.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practicejdk8/com/string/StringA.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practicejdk8/com/string/FIveTable.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practicejdk8/com/string/FIveTable.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practicejdk8/com/string/FactRecursive.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practicejdk8/com/string/StringWordReverse.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practicejdk8/com/string/StringWordReverse.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practicejdk8/com/string/StringWordReverse.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practicejdk8/com/string/StringWordReverse.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practicejdk8/com/array/TestA.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practicejdk8/com/array/TestA.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practicejdk8/com/array/TestA.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/practicejdk8$StringTriangle.ic" NAME="StringTriangle Coverage Results" MODIFIED="1673970957485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>practicejdk8.com.array.*</FILTER>
+    </SUITE>
   </component>
 </project>

@@ -22,8 +22,20 @@ public class StringRepeating {
         System.out.println("First non repeating first char is : " + ch[index]);
 
     }
-
+public static void mzxRepeat(String name){
+        char ch[] =name.toCharArray();
+        for(int i=0;i<ch.length;i++){
+            for (int j=i+1;j<ch.length;j++){
+                if(ch[i]==ch[j]){
+                    System.out.println(ch[j]);
+                    break;
+                }
+            }
+        }
+}
     public static void main(String[] args) {
-        printnonrepeatingFirstChar("kundank");
+
+//        printnonrepeatingFirstChar("kundank");
+        mzxRepeat("kundank");
     }
 }

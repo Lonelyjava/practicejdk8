@@ -17,7 +17,7 @@ public class StringReverse1 {
         }
 
     public static void main(String[] args) {
-       String reverseName= myreverse("kundan");
+       String reverseName= myreverse("kundan is a boy");
         System.out.println("reverseName :"+reverseName);
     }
 }
