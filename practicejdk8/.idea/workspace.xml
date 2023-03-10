@@ -267,7 +267,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Test2">
+  <component name="RunManager" selected="Application.RemovePerenthesisString">
     <configuration name="Emp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practicejdk8.com.string.Emp" />
       <module name="practicejdk8" />
@@ -287,6 +287,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="practicejdk8.com.stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemovePerenthesisString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practicejdk8.com.string.RemovePerenthesisString" />
+      <module name="practicejdk8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practicejdk8.com.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -320,26 +333,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practicejdk8.com.array.TestA" />
-      <module name="practicejdk8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practicejdk8.com.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemovePerenthesisString" />
         <item itemvalue="Application.Test2" />
         <item itemvalue="Application.SecondSalaryEMp" />
         <item itemvalue="Application.Emp" />
         <item itemvalue="Application.Emp1" />
-        <item itemvalue="Application.TestA" />
       </list>
     </recent_temporary>
   </component>
